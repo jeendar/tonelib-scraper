@@ -1,3 +1,8 @@
+[![GitHub Issues](https://img.shields.io/github/issues/Ozencb/tonelib-scraper)](https://github.com/Ozencb/tonelib-scraper/issues)
+[![Stars](https://img.shields.io/github/stars/Ozencb/tonelib-scraper)](https://github.com/Ozencb/tonelib-scraper)
+[![Forks](https://img.shields.io/github/forks/Ozencb/tonelib-scraper)](https://github.com/Ozencb/tonelib-scraper)
+[![MIT](https://img.shields.io/github/license/Ozencb/tonelib-scraper)](../master/LICENSE)
+
 # ToneLib Scraper
 
 **ToneLib Scraper** is a command-line tool for downloading guitar effects pedal patches from ToneLib forums.
