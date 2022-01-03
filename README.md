@@ -7,8 +7,6 @@
 
 **ToneLib Scraper** is a command-line tool for downloading guitar effects pedal patches from ToneLib forums.
 It requires Python 3.0+, Selenium, and Geckodriver.
-Note that this tool does not download the contents of a torrent file but downloads files with .torrent extension.
-You should use a Torrent client to open these files. 
 
 ## Usage
 
